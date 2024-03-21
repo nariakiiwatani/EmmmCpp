@@ -39,7 +39,7 @@ int main() {
 		"choice": [
 			{
 				"weight": 5,
-				"value": 0
+				"const": 0
 			},
 			{
 				"weight": 3,
@@ -50,7 +50,7 @@ int main() {
 					},
 					{
 						"weight": 3,
-						"value": 1
+						"const": 1
 					}
 				]
 			},
