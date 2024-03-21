@@ -35,7 +35,7 @@ In this example, we obtain values from a complex JSON structure with multiple op
 int main() {
 	// Example JSON data
 	nlohmann::json json_data = R"(
-    {
+	{
 		"choice": [
 			{
 				"weight": 5,
